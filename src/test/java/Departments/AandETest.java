@@ -11,7 +11,7 @@ class AandETest {
     private AandE aAndE;
 
     @BeforeEach
-      void setup(){
+    void setup(){
         AandE aAndE = new AandE(true);
     }
 
