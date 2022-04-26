@@ -1,5 +1,5 @@
 # Java Polymorphism Exercises
-We've learned about polymorphism in class, now put that knowledge to use!
+Paired Programming Task
 
 ## 1. Please create a new project, with multiple classes
 Use your own concept - don't simply duplicate the examples used in the lessons, or on the textbook
